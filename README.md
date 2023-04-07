@@ -47,3 +47,10 @@
 1.完成阅读Rust模式匹配。
 
 2.Rustlings(51/94)
+
+### Day8（4.7）
+
+1.完成阅读Rust方法Method。
+
+2.Rustlings(51/94)
+
