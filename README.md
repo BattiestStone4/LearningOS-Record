@@ -64,3 +64,9 @@
 
 2.Rustlings(52/94)
 
+### Day11（4.10）
+
+1.阅读Rust语言圣经泛型和const泛型一节。
+
+2.Rustlings(54/94)
+
