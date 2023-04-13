@@ -80,6 +80,14 @@
 
 1.阅读Rust语言圣经进一步深入特征一节。
 
-2.Rustlings(6/94)
+2.Rustlings(64/94)
 
 3.阅读计算机组成与设计RISC-V版前言。
+
+### Day14（4.13）
+
+1.阅读Rust by example复习，完成一些实例。
+
+2.Rustlings(68/94)
+
+3.阅读计算机组成与设计RISC-V版。
